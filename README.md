@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/noblenihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noblenihal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ng11213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ng11213" height="30" width="40" /></a>
+<a href="mailto:nihalgupta11213@gmail.com" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="nihalgupta11213" height="60" /></a>
 <a href="https://instagram.com/noble_nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noble_nihal" height="30" width="40" /></a>
 </p>
 
