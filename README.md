@@ -8,9 +8,9 @@
 
 <img align="right" alt="Aspiring Coder" width="48%" height="50%" src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-- 👨🏻‍🎓 B.Tech Computer Science Engineering graduate from Maharaja Surajmal Institute of Technology (2023)
 - 👨🏻‍💻 Software Developer at CityMall - a social commerce startup
 - 👨🏻‍💼 Internship Experience at AICTE, Ministry of Education, Government of India
+- 👨🏻‍🎓 B.Tech Computer Science Engineering graduate from Maharaja Surajmal Institute of Technology (2023)
 - ✨ I’m always up for collaborating on any kind of projects.
 - 📫 How to reach me **nihalgupta11213@gmail.com**
 
